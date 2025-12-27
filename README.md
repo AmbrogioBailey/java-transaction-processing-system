@@ -130,4 +130,4 @@ It reflects the type of logic and structure used in real-world financial systems
 ### 👤 Author
 **Ambrogio Bailey**  
 Aspiring Backend / Software Developer  
-GitHub: https://github.com/AmbrogioBailey
+LinkedIn: https://www.linkedin.com/in/ambrogio-bailey-b67529373/
